@@ -53,5 +53,22 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
-#Sln
-*.sln
+# build
+x64/
+Debug/
+Release/
+build/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# temporary
+*.log
+*.tmp
+
+# user settings
+*.user
+*.suo
+*.userosscache
