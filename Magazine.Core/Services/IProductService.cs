@@ -8,5 +8,6 @@ namespace Magazine.Core.Services
 {
     internal interface IProductService
     {
+        //picunicu
     }
 }
